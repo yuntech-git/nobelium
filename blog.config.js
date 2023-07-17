@@ -1,6 +1,6 @@
 const BLOG = {
-  title: 'Weiyh's BLOG',
-  author: 'Yuhong Wei',
+  title: 'Vast's BLOG',
+  author: 'Vast Wei',
   email: 'weiyh@126.com',
   link: 'https://qisware.com',
   description: 'This gonna be an awesome website.',
