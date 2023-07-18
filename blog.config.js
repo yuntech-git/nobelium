@@ -1,9 +1,9 @@
 const BLOG = {
-  title: 'Mindfulness and Optimism in an Uncertain World',
+  title: 'VastWei',
   author: 'Vast Wei',
   email: 'weiyh@126.com',
   link: 'https://qisware.com',
-  description: 'Be present.',
+  description: 'Mindfulness and Optimism in an Uncertain World.',
   lang: 'zh-CN', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   timezone: 'Asia/Shanghai', // Your Notion posts' date will be interpreted as this timezone. See https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for all options.
   appearance: 'auto', // ['light', 'dark', 'auto'],
