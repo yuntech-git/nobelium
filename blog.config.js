@@ -1,5 +1,5 @@
 const BLOG = {
-  title: 'VastWei',
+  title: 'Vast Wei',
   author: 'Vast Wei',
   email: 'weiyh@126.com',
   link: 'https://qisware.com',
