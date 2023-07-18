@@ -1,5 +1,5 @@
 const BLOG = {
-  title: 'Vast's BLOG',
+  title: 'Mindfulness and Optimism in an Uncertain World',
   author: 'Vast Wei',
   email: 'weiyh@126.com',
   link: 'https://qisware.com',
